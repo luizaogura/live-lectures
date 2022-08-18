@@ -1,0 +1,5 @@
+  374  cat fofinhos_raivosos.txt  >> animais_fofinhos.txt 
+  375  cat fofinhos_raivosos.txt  >> animais_raivosos.txt 
+  376  cat animais_fofinhos.txt 
+  377  cat animais_raivosos.txt 
+  378  history | tail -5 | cat > historico.ltxt

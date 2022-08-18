@@ -1,0 +1,8 @@
+bash
+boi
+frango
+galinha
+internet 
+pintinho
+unix 
+vaca
